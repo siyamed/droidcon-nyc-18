@@ -1,5 +1,6 @@
 # droidcon-nyc-18
 Android Text @ DroidCon NYC 2018
+[Slides](https://speakerdeck.com/siyamed/android-text-the-good-the-bad-the-ugly-droidcon-nyc-2018)
 
 ## Resources to learn more about Android Text
 * [Prefetch Text Layout in RecyclerView, Chris Craik](https://medium.com/google-developers/prefetch-text-layout-in-recyclerview-4acf9103f438)
